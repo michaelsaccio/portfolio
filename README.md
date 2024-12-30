@@ -3,7 +3,9 @@
 
 <br><br>
 ### Summary
-[Brief professional summary]
+I’m a recent graduate passionate about leveraging data to solve complex problems and generate meaningful insights. My work spans diverse fields, including industry partnerships, neuroscience, coffee chemistry, and fitness optimization. From developing predictive models to identify high-risk days for emergency response to engineering iOS apps for personalized weightlifting recommendations, I thrive at the intersection of data science and innovation.
+
+Specializing in statistical analysis, machine learning, and data visualization, I have hands-on experience in Python, R, and Excel. My projects tackle real-world challenges, such as optimizing workflows through automation, uncovering hidden trends, and applying advanced analytics to practical solutions. Outside of coding and data analysis, I enjoy exploring how technology enhances daily life, from tracking fitness progress to creating engaging mobile games.
 
 <br><br>
 ### Education
@@ -29,7 +31,7 @@
 #### **Data Analyst**
 **Computational Social Neuroscience Research Lab** <br>
 *June 2023 - August 2024* <br>
-**Top Skills**: Statistical Analysis 
+**Top Skills**: Statistical Analysis <br>
 **Tech Stack**: R (dplyr, rio, ade4, broom, reshape2), Bash
 
 - Led High Performance Computing analysis of $100k+ social neuroscience research project
@@ -41,7 +43,7 @@
 #### **Data Scientist**
 **Hendon Materials Simulation Research Lab** <br>
 *January 2023 - January 2024* <br>
-**Top Skills**: Data Cleaning, Data Visualization, Natural Language Processing (NLP)
+**Top Skills**: Data Cleaning, Data Vis., Natural Language Processing (NLP)
 **Tech Stack**: Python (pandas, numpy, matplot, scipy, sklearn), Excel
 
 - Engineered NLP model for coffee degradation analysis, achieving 19% accuracy improvement through TF-IDF implementation and hyperparameter optimization
@@ -52,7 +54,7 @@
 #### **Office Assistant**
 **Research and Innovation, University of Oregon** <br>
 *June 2023 - June 2024* <br>
-**Top Skills**: Project Management, Writing, Communication
+**Top Skills**: Project Management, Writing, Communication <br>
 **Tech Stack**: Excel, SharePoint, PowerAutomate, Python, Qualtrics
 
 - Automated document processing by developing Python scripts, reducing operational costs
