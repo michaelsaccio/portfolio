@@ -2,10 +2,27 @@
 ## Data Analyst
 
 <br><br>
-### Summary
-I’m a recent graduate passionate about leveraging data to solve complex problems and generate meaningful insights. My work spans diverse fields, including industry partnerships, neuroscience, coffee chemistry, and fitness optimization. From developing predictive models to identify high-risk days for emergency response to engineering iOS apps for personalized weightlifting recommendations, I thrive at the intersection of data science and innovation.
+### Table of Contents
+- [Michael Saccio](#michael-saccio)
+  - [Summary](#summary)
+  - [Education](#education)
+  - [Work Experience](#work-experience)
+    - [Data & Database Project Lead](#data--database-project-lead)
+    - [Data Analyst](#data-analyst)
+    - [Data Scientist](#data-scientist)
+    - [Office Assistant](#office-assistant)
+  - [Projects](#projects)
+    - [iOS Weightlifting Analytics App](#ios-weightlifting-analytics-app)
+    - [Python Weightlifting Analytics App](#python-weightlifting-analytics-app)
+    - [CAHOOTS Extreme Weather Analysis](#cahoots-extreme-weather-analysis)
+    - [Deep Learning Lifestyle Optimization](#deep-learning-lifestyle-optimization)
+    - [NBA Score Prediction Program](#nba-score-prediction-program)
 
-Specializing in statistical analysis, machine learning, and data visualization, I have hands-on experience in Python, R, and Excel. My projects tackle real-world challenges, such as optimizing workflows through automation, uncovering hidden trends, and applying advanced analytics to practical solutions. Outside of coding and data analysis, I enjoy exploring how technology enhances daily life, from tracking fitness progress to creating engaging mobile games.
+<br><br>
+### Summary
+I’m a recent graduate passionate about using data to solve challenging problems and generate meaningful insights. My work spans diverse fields, including industry partnerships, neuroscience, coffee chemistry, and fitness optimization. From developing predictive models to identify high-risk days for emergency response to engineering iOS apps for personalized weightlifting recommendations, I thrive at the intersection of data science and innovation.
+
+Specializing in statistical analysis, machine learning, and data visualization, I have hands-on experience in Python, R, and Excel. My projects tackle real-world challenges, such as optimizing workflows through automation, uncovering hidden trends, and applying advanced analytics to practical solutions. Outside of coding projects and data analysis, I enjoy cooking, exercise, and spending time with puppy!
 
 <br><br>
 ### Education
@@ -85,7 +102,7 @@ Specializing in statistical analysis, machine learning, and data visualization, 
 
 ---
 
-#### **CAHOOTS Weather Analysis**  
+#### **CAHOOTS Extreme Weather Analysis**  
 *May 2024*  
 **Tech Stack**: Python (pandas, seaborn, scipy, statsmodels, imblearn), Visual Crossing API  
 
@@ -95,7 +112,7 @@ Specializing in statistical analysis, machine learning, and data visualization, 
 
 ---
 
-#### **Lifestyle Optimization using the Fitbit API**  
+#### **Deep Learning Lifestyle Optimization**  
 *April 2024*  
 **Tech Stack**: Python (pandas, numpy, torch, sklearn), Google Sheets API, Fitbit API, SQLite
 
