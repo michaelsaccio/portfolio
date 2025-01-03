@@ -1,6 +1,8 @@
 # Michael Saccio
 ## Data Analyst
 
+### [Resume](https://docs.google.com/document/d/1qCzNdIKPZ4G2zMlHz-7WfyLi755nJ8ebjxo4KBXpXo4/edit?usp=sharing)  
+
 <br><br>
 ### Table of Contents
 - [Michael Saccio](#michael-saccio)
@@ -38,7 +40,7 @@ Specializing in statistical analysis, machine learning, and data visualization, 
 
 #### **Data & Database Project Lead**
 **MSU Denver** <br>
-*November 2024 - Present*
+*November 2024 - Present (Full-time, Temporary)*
 
 - Discovered critical view-count bug during interview phase
 - Engineering, analysis, technical writing, and presentation of industry partner data
@@ -47,7 +49,7 @@ Specializing in statistical analysis, machine learning, and data visualization, 
 
 #### **Data Analyst**
 **Computational Social Neuroscience Research Lab** <br>
-*June 2023 - August 2024* <br>
+*June 2023 - August 2024 (Part-time, Research)* <br>
 **Top Skills**: Statistical Analysis <br>
 **Tech Stack**: R (dplyr, rio, ade4, broom, reshape2), Bash
 
@@ -59,7 +61,7 @@ Specializing in statistical analysis, machine learning, and data visualization, 
 
 #### **Data Scientist**
 **Hendon Materials Simulation Research Lab** <br>
-*January 2023 - January 2024* <br>
+*January 2023 - January 2024 (Part-time, Research)* <br>
 **Top Skills**: Data Cleaning, Data Vis., Natural Language Processing (NLP)
 **Tech Stack**: Python (pandas, numpy, matplot, scipy, sklearn), Excel
 
@@ -70,7 +72,7 @@ Specializing in statistical analysis, machine learning, and data visualization, 
 
 #### **Office Assistant**
 **Research and Innovation, University of Oregon** <br>
-*June 2023 - June 2024* <br>
+*June 2023 - June 2024 (Part-time)* <br>
 **Top Skills**: Project Management, Writing, Communication <br>
 **Tech Stack**: Excel, SharePoint, PowerAutomate, Python, Qualtrics
 
