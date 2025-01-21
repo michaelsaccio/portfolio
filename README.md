@@ -13,6 +13,7 @@
     - [Data Analyst](#data-analyst)
     - [Data Scientist](#data-scientist)
     - [Office Assistant](#office-assistant)
+    - [Shift Lead](#shift-lead)
   - [Projects](#projects)
     - [iOS Weightlifting Analytics App](#ios-weightlifting-analytics-app)
     - [Python Weightlifting Analytics App](#python-weightlifting-analytics-app)
@@ -79,6 +80,17 @@ Specializing in statistical analysis, machine learning, and data visualization, 
 - Automated document processing by developing Python scripts, reducing operational costs
 - Optimized office workflows using Excel, SharePoint, and Power Automate
 - Managed administrative tasks including calendar management and travel coordination
+
+---
+
+#### **Shift Lead**
+**Little Big Burger, Portland, OR** <br>
+*July 2019 - November 2022* <br>
+**Top Skills**: Operations Management, Customer Service, Staff Training <br>
+
+- Managed daily operations, trained staff, and ensured accurate order fulfillment in a fast-paced environment  
+- Handled financials, including bank deposits, inventory, and overseeing opening and closing procedures  
+- Collaborated with regional managers on promotional items and hiring  
 
 <br><br>
 ### Projects 
