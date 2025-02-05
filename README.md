@@ -1,5 +1,5 @@
 # Michael Saccio
-## Data Analyst
+## Data Scientist
 
 ### [Resume](https://docs.google.com/document/d/1qCzNdIKPZ4G2zMlHz-7WfyLi755nJ8ebjxo4KBXpXo4/edit?usp=sharing)  
 
@@ -54,9 +54,9 @@ Specializing in statistical analysis, machine learning, and data visualization, 
 **Top Skills**: Statistical Analysis <br>
 **Tech Stack**: R (dplyr, rio, ade4, broom, reshape2), Bash
 
-- Led High Performance Computing analysis of $100k+ social neuroscience research project
-- Engineered R pipeline to run 14 Mantel tests on 120 subjects, handling terabytes of MRI data
-- Uncovered key relationship insights through advanced data modeling, contributing to publications
+- Led R pipeline development analyzing 13,680 dissimilarity matrices across 120 subjects in $100k+ social neuroscience study
+- Developed statistical framework using linear modeling and Mantel tests to analyze terabytes of MRI data
+- Optimized high-performance computing workflow to process 1.4M+ pairwise comparisons, contributing to publications
 
 ---
 
