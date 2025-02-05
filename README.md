@@ -10,8 +10,8 @@
   - [Education](#education)
   - [Work Experience](#work-experience)
     - [Data & Database Project Lead](#data--database-project-lead)
-    - [Data Analyst](#data-analyst)
-    - [Data Scientist](#data-scientist)
+    - [Data Analysis Research Assistant](#data-analysis-research-assistant)
+    - [Data Science Research Assistant](#data-science-research-assistant)
     - [Office Assistant](#office-assistant)
     - [Shift Lead](#shift-lead)
   - [Projects](#projects)
@@ -48,10 +48,10 @@ Specializing in statistical analysis, machine learning, and data visualization, 
 
 ---
 
-#### **Data Analyst**
+#### **Data Analysis Research Assistant**
 **Computational Social Neuroscience Research Lab** <br>
 *June 2023 - August 2024 (Part-time, Research)* <br>
-**Top Skills**: Statistical Analysis <br>
+**Top Skills**: Statistical Analysis, Data Pipelining <br>
 **Tech Stack**: R (dplyr, rio, ade4, broom, reshape2), Bash
 
 - Led R pipeline development analyzing 13,680 dissimilarity matrices across 120 subjects in $100k+ social neuroscience study
@@ -60,7 +60,7 @@ Specializing in statistical analysis, machine learning, and data visualization, 
 
 ---
 
-#### **Data Scientist**
+#### **Data Science Research Assistant**
 **Hendon Materials Simulation Research Lab** <br>
 *January 2023 - January 2024 (Part-time, Research)* <br>
 **Top Skills**: Data Cleaning, Data Vis., Natural Language Processing (NLP)
