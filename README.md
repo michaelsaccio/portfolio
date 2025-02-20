@@ -43,8 +43,10 @@ Specializing in statistical analysis, machine learning, and data visualization, 
 **MSU Denver** <br>
 *November 2024 - Present (Full-time, Temporary)*
 
-- Discovered critical view-count bug during interview phase
-- Engineering, analysis, technical writing, and presentation of industry partner data
+- Developed reusable Python analytics toolkit that transforms university database records into actionable insights
+  - Automated generation of performance metrics, trend analysis, and visuals  
+- Building live PowerBI dashboards integrated with database APIs to provide real-time metrics
+- Led technical data training sessions and project meetings with team members
 
 ---
 
