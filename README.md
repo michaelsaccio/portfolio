@@ -41,7 +41,9 @@ Specializing in statistical analysis, machine learning, and data visualization, 
 
 #### **Data & Database Project Lead**
 **MSU Denver** <br>
-*November 2024 - Present (Full-time, Temporary)*
+*November 2024 - Present (Full-time)* <br>
+**Top Skills**: Data Cleaning, Transformation, Visualization, Database Management, Presenting  <br>
+**Tech Stack**: Python, Excel, PowerBI, PowerAutomate
 
 - Developed reusable Python analytics toolkit that transforms university database records into actionable insights
   - Automated generation of performance metrics, trend analysis, and visuals  
