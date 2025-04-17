@@ -45,10 +45,10 @@ Specializing in statistical analysis, machine learning, and data visualization, 
 **Top Skills**: Data Cleaning, Transformation, Visualization, Database Management, Presenting  <br>
 **Tech Stack**: Python, Excel, PowerBI, PowerAutomate
 
-- Developed reusable Python analytics toolkit that transforms university database records into actionable insights
-  - Automated generation of performance metrics, trend analysis, and visuals  
-- Building live PowerBI dashboards integrated with database APIs to provide real-time metrics
-- Led technical data training sessions and project meetings with team members
+- Engineered 20+ Python analytics scripts that transform database exports into metrics and visualizations
+- Delivered ad-hoc analysis and dashboard solutions using Tableau and Python for various departments
+- Building live PowerBI dashboards integrated with database APIs to provide metrics facing 60+ staff
+- Regularly give data insights presentations and Excel training sessions to elevate institutional data literacy
 
 ---
 
